@@ -1,0 +1,7 @@
+{ 
+  "dataArray": [
+  { "id": 1, "product": "Banana", "price": 3.59},
+  { "id": 2, "product": "Turmeric", "price": 4.68},
+  { "id": 3, "product": "Beans", "price": 1.5}
+]
+}
